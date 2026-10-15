@@ -1,7 +1,6 @@
 // Java Program to Illustrate Department.java File
 
 // Importing required package modules
-//package com.amiya.springbootdemoproject.entity;
 package com.example.crudoperations.model;
 // Importing required classes
 import jakarta.persistence.Entity;
